@@ -37,9 +37,6 @@ main{
     justify-content: center;
     align-items: center;
     cursor: pointer;
-}
-
-.letter{
     text-transform: uppercase;
     font-size: 110px;
     color: burlywood;
